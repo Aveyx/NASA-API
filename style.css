@@ -1,0 +1,89 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+* {
+    font-family: 'Permanent Marker', cursive;
+	box-sizing: border-box;
+	text-align: center;
+	
+}
+  /******************************************
+  /* LAYOUT
+  /*******************************************/
+  img, iframe{
+    display: block;
+    margin: 0 auto;
+    max-width: 900px;
+  }
+  
+  
+  /******************************************
+  /* ADDITIONAL STYLES
+  /*******************************************/
+  
+  body {
+	background-color: rgb(43, 39, 39);
+}
+
+
+body h1{
+	color: rgb(183, 252, 218);
+	font-weight:bold;
+	padding: 5px 10px 30px 10px;
+	margin: 50px 5px 10px 5px;
+	font-family: monospace,
+	cursive;
+	font-size: 4vmax;
+
+	}
+
+
+
+body h1 {
+	color: rgb(183, 252, 218);
+	font-size: 4vmax;
+	font-family: monospace;
+
+
+
+}
+
+input,
+button {
+	padding: 20px;
+	border-radius: 20px;
+	font-size: 2vmax;
+	width: max-content;
+}
+
+button{
+	background-color: aquamarine;
+	}
+
+
+.explanation
+ {
+	color: rgb(254, 254, 254);
+	line-height: 2.5rem;
+	margin: 0 80px;
+	font-family: monospace;
+
+}
+h2, h3 {
+    font-family: monospace;
+    font-size: 2rem;
+}
+
+.hidden {
+	display: none;
+}
+
+.title{
+	color: aquamarine;
+}
+
+i{
+	color: rgb(243, 227, 6);
+}
