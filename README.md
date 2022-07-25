@@ -11,5 +11,5 @@
   1. <a href="https://api.nasa.gov/">NASA API's</a>
 </h4>
 <h4>
-  2. <a href="https://fontawesome.com/"Font Awesome"</a>
+  2. <a href="https://fontawesome.com/">Font Awesome</a>
 </h4>
